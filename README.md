@@ -2,7 +2,7 @@
 
 There's juicy STBZ to be had in [Stabilize Finance](https://www.stabilize.finance) if we compounded frequently. For Example: 
 
-if the APR is 250% , With compunding we get the following APY: 
+if the APR is 250% , With compounding we get the following APY: 
 
 Compounding Frequency| APY 
 --- | --- 
