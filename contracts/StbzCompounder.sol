@@ -30,10 +30,10 @@ contract StbzCompounder is ERC20 {
     // Last time harvest() was called
     uint256 public lastHarvest = 0;
 
-    // 5% reward for anyone who calls HARVEST
+    // 0.05% reward for anyone who calls HARVEST
     uint256 public callerPercent = 5 ether / 100;
 
-    // 1% reward to the owner 
+    // 0.01% reward to the owner 
     uint256 public devPercent = 1 ether / 100;
 
     // create the STBZ tokens
