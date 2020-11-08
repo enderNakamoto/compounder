@@ -1,6 +1,6 @@
 # STBZ/ETH pool compounder 
 
-There's juicy STBZ to be had if we compounded frequently. For Example: 
+There's juicy STBZ to be had in [Stabilize Finance](https://www.stabilize.finance) if we compounded frequently. For Example: 
 
 if the APR is 250% , With compunding we get the following APY: 
 
@@ -16,7 +16,6 @@ Compounding everyday manually will take a lot of effort and cost a lot of gas, T
 
 This project is based off [sushi-farm](https://github.com/abstracted-finance/sushi-farm)
 which in turn was based off yVaults. YAY! OpenSource
-
 
 ## Functions
 
