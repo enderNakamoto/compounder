@@ -14,6 +14,9 @@ Daily | 1107.91%
 
 Compounding everyday manually will take a lot of effort and cost a lot of gas, Therefore, we crowdsource this in this contract 
 
+This project is based off [sushi-farm](https://github.com/abstracted-finance/sushi-farm)
+which in turn was based off yVaults. YAY! OpenSource
+
 
 ## Functions
 
